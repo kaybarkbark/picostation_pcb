@@ -3,6 +3,7 @@
 
 output
 output.zip
+out
 
 # Temporary files
 *.000
@@ -10,6 +11,7 @@ output.zip
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.kicad_sch.lck
 *-backups
 *.kicad_prl
 *.sch-bak
